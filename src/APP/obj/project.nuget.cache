@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SKK+TX6qRmgsNePZQOSWhaKQlQ4z48YmKLvMSinlioq1YSG54VOA2YUt/3HmHaFerZGEDy+SWJj6UwvyML/cQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guilherme.santos\\Documents\\Localiza_Momento_Mao_Na_Massa\\src\\APP\\APP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilherme.santos\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

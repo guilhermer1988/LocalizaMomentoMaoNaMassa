@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rwzxEHqPSc6a3Bruks5p8x8RY+VzKCTsoHfH8F2XRZ9qA4azG0vj/WC1Fvx2Q1rlwRqeJjEzg8nqsQNVo1WUFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guilherme.santos\\Documents\\Localiza_Momento_Mao_Na_Massa\\src\\UI\\UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilherme.santos\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\guilherme.santos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\guilherme.santos\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
